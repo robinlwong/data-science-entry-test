@@ -17,7 +17,6 @@ def find_and_replace(lst, find_val, replace_val):
     
     return modified_list
 
-
 # Task 2
 # Invoke the function "find_and_replace" in:
 
