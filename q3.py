@@ -15,7 +15,6 @@ def update_dictionary(dct, key, value):
     
     return dct
 
-
 # Task 2
 # Invoke the function "update_dictionary" using the following scenarios:
 
